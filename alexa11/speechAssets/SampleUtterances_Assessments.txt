@@ -1,0 +1,11 @@
+AnswerIntent the answer is {Answer}
+AnswerIntent my answer is {Answer}
+AnswerIntent is it {Answer}
+AnswerIntent {Answer} is my answer
+AnswerIntent i answer {Answer}
+AnswerOnlyIntent {Answer}
+
+AMAZON.StartOverIntent start test
+AMAZON.StartOverIntent new test
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new test
